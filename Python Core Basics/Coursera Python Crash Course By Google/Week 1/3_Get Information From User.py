@@ -1,0 +1,5 @@
+a=input("Hola! this is string input:")
+b=int(input("Hooo Give Some int input:"))
+c=bool(input("Give Some input True or False:"))
+d=float(input("Give Some float:"))
+print("The inputs are:",a,b,c,d,sep="\n")

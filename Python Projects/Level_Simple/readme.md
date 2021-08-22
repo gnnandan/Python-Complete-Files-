@@ -1,0 +1,14 @@
+<!-- markdownlint-disable -->
+- Web Scraping to create a dataset
+-  Resume scanner
+- merge sort algorithms
+- Quartile Deviation using Python
+- Sequential Search Algorithm
+- Sorting NumPy Arrays
+- Create Tables with Python
+- Recursive Binary Search
+- Dijkstra’s Algorithm using Python
+- Hash Tables using Python
+- Queues using Python
+- Validate a Binary Search Tree
+- Stacks using Python

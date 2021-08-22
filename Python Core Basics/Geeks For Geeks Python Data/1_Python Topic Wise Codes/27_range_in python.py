@@ -1,0 +1,13 @@
+# Note range(start)
+r0=range(5)
+print("type is {}".format(type(r0)),"\nRange of numbers with 1 parameter:",list(r0))
+
+# Note range(start, stop)
+r1=range(-10,10)
+print("\nRange of numbers with 2 parameter:",list(r1))
+# Note range(start, stop, step)
+r2=range(1,10,2)
+print("\nRange of numbers with 3 parameter:",list(r2))
+# Note Negativestep range(start, stop, step)
+r3=range(20,10,-2)
+print("\nRange of numbers with 2 parameter using negative_steps:",list(r3))
