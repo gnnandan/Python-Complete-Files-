@@ -8,4 +8,3 @@ def if_else_ex(a):
         return("inside else block because the 'if condition False'")
     
 a=int(input("Enter a >>"))
-print(if_else_ex(a))
